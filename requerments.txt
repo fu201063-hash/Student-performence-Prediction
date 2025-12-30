@@ -3,3 +3,7 @@ joblib
 scikit-learn
 numpy
 pandas
+python
+matplotlib
+scikit learn
+
