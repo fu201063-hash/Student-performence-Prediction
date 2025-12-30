@@ -1,8 +1,10 @@
 import streamlit as st
 import joblib
+import numpy as np
 
-model = joblib.load('STUDENT_PERFORMANCE.PKL')
-scaler = joblib.load('SCALER.pkl')
+
+model = joblib.load("STUDENT_PERFORMANCE.pkl")
+scaler = joblib.load("SCALER.pkl")
 
 
 
